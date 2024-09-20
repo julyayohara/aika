@@ -1,1 +1,1 @@
-alert(deucerto)
+alert('deucerto')
