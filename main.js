@@ -16,4 +16,4 @@ console.log (media (6,2,8));
 let nome=prompt('toretto')
 document.write(toretto)
 parseInt(prompt('qual a media?'));
-console.log (nome (qual a media));
+console.log (nome (toretto));
