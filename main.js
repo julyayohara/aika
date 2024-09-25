@@ -13,5 +13,7 @@ let media= function (num6,num2,num8){
 }
 console.log (media (6,2,8));
 
-
+let nome=prompt('toretto')
+document.write(toretto)
+parseInt(prompt('toretto?'))
 
