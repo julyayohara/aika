@@ -24,6 +24,9 @@ while(i<estados.length){
     console.log(i);
     console.log(estados [i]);
     i++;
-
-
+}
+for (let index = 0; index < estados.length; index++) {
+    const element = array[index];
+    console.log(i);
+    console.log(estados[i]);
 }
