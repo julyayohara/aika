@@ -14,7 +14,7 @@ criaCartao(
     'Programação',
     'O que um algoritmo?',
     'Sequencia finita de instruções')
-    criaCartão(
+    criaCartao(
     'Programação',
     'O que é bug?',
     'Falha no código de programação')
