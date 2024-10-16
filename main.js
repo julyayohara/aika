@@ -12,5 +12,5 @@ cartao.innerHTML = `
         <p>resposta</p>
     </div>
 </div>
-container.appendCh11d(cartao);
+container.appendChlld(cartao);
 }
