@@ -50,3 +50,20 @@ footer{
     font-size: 1.4rem;
     padding: 2rem;
 }
+.pergunta-cartao p{
+    font-weight: 500;
+}
+.resposta-cartao{
+    font-weight: 700;
+    color: var(--destaque);
+}
+.cartao:hover .conteudo-cartao{
+    transform: rotateY(180deg);
+}
+.pergunta-cartao, .resposta-cartao{
+    backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+}
