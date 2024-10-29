@@ -40,8 +40,10 @@ footer{
     box-shadow: 2px 2px 2px var(--preto);
     border: 1px solid var(--preto);
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .conteudo-cartao:hover{
     transform: scale(1.02);
 }
+
