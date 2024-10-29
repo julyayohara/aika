@@ -1,4 +1,4 @@
-function criarcartao(categoria, pergunta, resposta) {
+function criarcartao(categoria, pergunta, resposta){
     let container = document.getElementById('container');
     let cartao = document.createElement('article');
     cartao.className = 'cartao';
@@ -12,9 +12,8 @@ function criarcartao(categoria, pergunta, resposta) {
                 <p>${resposta}</p>
             </div>
         </div>
-    `;
-
-    let respostaEstaVisivel = false;
+    `
+    let respostaEstaVisivel = false ;
     function viracartao(){
         respostaEstaVisivel = !respostaEstaVisivel;
         cartao.classList.toggle('active', respostaEstaVisivel);
