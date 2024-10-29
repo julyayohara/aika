@@ -78,3 +78,4 @@
     'Programação',
     'Qual sua linguagem favorita?',
     ' Java')
+    import { criaCartao } from './main.js';
