@@ -14,7 +14,7 @@ function criarCartao(categoria, pergunta, resposta) {
         <div class="resposta-cartao">
             <p>${resposta}</p>
         </div>
-    `;a
+    `;
 
     function viracartao() {
         cartao.respostaEstaVisivel = !cartao.respostaEstaVisivel;
