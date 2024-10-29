@@ -16,12 +16,12 @@ function criarcartao(categoria, pergunta, resposta){
     container.appendChild(cartao)
 }
 function mostraResposta(card) {
-    const resposta = document.querySelector('.resposta-cartao');
+    const resposta = cord.querySelector('.resposta-cartao');
     if (resposta.style.display === 'none') {
         resposta.style.display = 'block';
-
     }
     else {
+        resposta.style.display = 'none';
 
     }
 }
