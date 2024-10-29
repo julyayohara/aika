@@ -13,7 +13,7 @@ function criarcartao(categoria, pergunta, resposta){
             </div>
         </div>
     `
-    container.appendChild(cartao)
+    container.appendChild(cartao);
 }
 function mostraResposta(card) {
     const resposta = cord.querySelector('.resposta-cartao');
