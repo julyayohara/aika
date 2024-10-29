@@ -1,80 +1,80 @@
-    criacartao(
+    criaCartao(
     'Programaçao',
     'O que é uma variável em programação?',
     'É um espaço de armazenamento')
-    criacartao(
+    criaCartao(
     'Programação',
     'O que é um loop?',
     'É uma estrutura de controle que repete a execução de um bloco de código')
-    criacartao(
+    criaCartao(
     'Programação',
     'Qual sua linguagem favorita?',
     'Java')
-    criacartao(
+    criaCartao(
     'Programação',
     'O que um algoritmo?',
     'Sequencia finita de instruções')
-    criacartao(
+    criaCartao(
     'Programação',
     'O que é bug?',
     'Falha no código de programação')
-    criacartao(
+    criaCartao(
     'Programação',
     'O que é um jit?',
     'Sistema de controle para acompanhar mudança no código')
-    criacartao(
+    criaCartao(
     'Programação',
     'O que é um banco de dados?',
     'Uma coleção organizada de dados')
-    criacartao(
+    criaCartao(
     'Programação',
     'O que é um comentário no código?',
     'Anotação no código que é ignorada pelo computador')
-    criacartao(
+    criaCartao(
     'Programaçao',
     'O que é uma variável?',
     'Espaço de armazenamento que contem dados')
-    criacartao(
+    criaCartao(
     'Programação',
     'O que significa loop em programação?',
     'Estrutura que permite repetir bloco')
-    criacartao(
+    criaCartao(
     'Programação',
     'O que é Html?',
     'Linguagem padrão para criar paginas web')
-    criacartao(
+    criaCartao(
     'Programação',
     'O que é um framework?',
     ' Suporte para desenvolver aplicativos')
-    criacartao(
+    criaCartao(
     'Programação',
     'O que é um servidor?',
     'Sistema que oferece recursos a outros computadores')
-    criacartao(
+    criaCartao(
     'Programação',
     'O que são variáveis globais?',
     ' Variáveis definidas fora de qualquer função')
-    criacartao(
+    criaCartao(
     'Programação',
     'O que é uma classe?',
     'Modelo de propriedade de métodos')
-    criacartao(
+    criaCartao(
     'Programação',
     'O que são testes unitários?',
     'Testes automáticos que verificam se programas funcionam corretamente')
-    criacartao(
+    criaCartao(
     'Programaçao',
     'Qual sua linguagem favorita?',
     'Python')
-    criacartao(
+    criaCartao(
     'Programação',
     'Qual sua linguagem favorita?',
     ' Javascript')
-    criacartao(
+    criaCartao(
     'Programação',
     'Qual sua linguagem favorita?',
     'C++')
-    criacartao(
+    criaCartao(
     'Programação',
     'Qual sua linguagem favorita?',
     ' Java')
