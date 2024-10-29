@@ -15,7 +15,7 @@ function criarcartao(categoria, pergunta, resposta){
     `
     container.appendChild(cartao);
 }
-function mostraResposta(card) {
+function mostraResposta (card){
     const resposta = cord.querySelector('.resposta-cartao');
     if (resposta.style.display === 'none'){
         resposta.style.display = 'block';
