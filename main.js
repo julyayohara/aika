@@ -5,13 +5,13 @@ function criarcartao(categoria,pergunta,resposta){
     cartao.innerHTML = `
         <div class="conteudo-cartao">
             <h3>${categoria}</h3>
-            </div>
             <div class="pergunta-cartao">
                 <p>${pergunta}</p>
         </div>
         <div class="resposta-cartao">
             <p>${resposta}</p>
         </div>
+ </div>
     `
 let respostaEstaVisivel = false;
     function viracartao(){
