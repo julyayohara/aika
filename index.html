@@ -1,24 +1,39 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Portfólio</title>
     <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
 </head>
 <body>
-   <header>
-    <a href="index.html">Página 1</a>
-    <a href="projeto2.html">Página 2</a>
-   </header>
-    <section id="container">
-         
-    </section>
-    <footer>
-        <p>desenvolvido por julya,emily oliveira</p>
-    </footer>
-    <script src="main.js"></script>
-    <script src="pergunta.js"></script>
+
+    <header>
+        <div class="menu-hamburguer" onclick="toggleMenu()">☰</div>
+        <nav id="menu">
+            <ul>
+                <li><a href="#">Matemática</a></li>
+                <li><a href="#">Física</a></li>
+                <li><a href="#">Química</a></li>
+            </ul>
+        </nav>
+        <h1>Portfólio</h1>
+        <input type="text" placeholder="Pesquisar...">
+        <nav class="menu-secundario">
+            <ul>
+                <li><a href="#">Atividades</a></li>
+                <li><a href="#">Provas</a></li>
+                <li><a href="#">Projetos</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Bem-vindo ao Portfólio</h2>
+        <p>Selecione uma disciplina para visualizar os conteúdos.</p>
+    </main>
+
 </body>
 </html>
 
