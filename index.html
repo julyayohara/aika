@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfólio</title>
+    <title>Portfólio Escolar</title>
     <link rel="stylesheet" href="style.css">
     <script defer src="script.js"></script>
 </head>
@@ -13,9 +13,9 @@
         <div class="menu-hamburguer" onclick="toggleMenu()">☰</div>
         <nav id="menu">
             <ul>
-                <li><a href="#">Matemática</a></li>
-                <li><a href="#">Física</a></li>
-                <li><a href="#">Química</a></li>
+                <li><a href="#" onclick="mostrarConteudo('matematica')">Matemática</a></li>
+                <li><a href="#" onclick="mostrarConteudo('fisica')">Física</a></li>
+                <li><a href="#" onclick="mostrarConteudo('quimica')">Química</a></li>
             </ul>
         </nav>
         <h1>Portfólio</h1>
@@ -30,8 +30,18 @@
     </header>
 
     <main>
-        <h2>Bem-vindo ao Portfólio</h2>
-        <p>Selecione uma disciplina para visualizar os conteúdos.</p>
+        <section id="matematica" class="conteudo">
+            <h2>Matemática</h2>
+            <p>Aqui está o conteúdo de Matemática.</p>
+        </section>
+        <section id="fisica" class="conteudo">
+            <h2>Física</h2>
+            <p>Aqui está o conteúdo de Física.</p>
+        </section>
+        <section id="quimica" class="conteudo">
+            <h2>Química</h2>
+            <p>Aqui está o conteúdo de Química.</p>
+        </section>
     </main>
 
 </body>
